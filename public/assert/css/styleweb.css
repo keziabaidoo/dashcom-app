@@ -1,0 +1,23 @@
+.text-content{
+	color: blue;
+}
+
+.navbar-default{
+	background-color: brown;
+	height: 80px;
+}
+
+.input-group-addon{
+	background-color:blue;
+	color: white;
+}
+
+.navbar-nav{
+color: white;
+}
+
+.footer {
+	
+	padding: 1.5rem ;
+	color: #d9edf7 ;
+}

@@ -1,0 +1,26 @@
+.panelhead{
+	background-color: rgb(14, 12, 12);
+}
+.paneldashboard{
+	color: white;
+	font-size: 50px;
+	padding-bottom: 15px;	
+}
+.paneldashboardRight{
+padding-left: 50px;
+}
+.breadcrumbheader{
+	background-color: rgba(150, 146, 146, 0.89);
+}
+.breadcrumbheader li a{
+	color: black;
+}
+.dashboardactive{
+	background-color: red;
+}
+table tr > td > button{
+		padding-left: 8px;
+}
+.btnpadding{
+	margin: 5px;
+}
